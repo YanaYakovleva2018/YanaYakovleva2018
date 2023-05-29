@@ -1,4 +1,4 @@
-# Hi, I'm Yana 👋
+# Hi there, I'm a beginner Python developer 👋
 
 
 
