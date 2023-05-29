@@ -23,8 +23,4 @@
   </a>
 </p>
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/YanaYakovleva2018/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=YanaYakovleva2018&color=DE002D">
-   </a>
-</div>
+
